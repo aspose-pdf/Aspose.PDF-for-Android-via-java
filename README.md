@@ -21,6 +21,6 @@ Directory  | Description
 + **Website:** [www.aspose.com](http://www.aspose.com)
 + **Product Home:** [Aspose.Pdf for Android](http://www.aspose.com/android/pdf-component.aspx)
 + **Download:** [Download Aspose.Pdf for Android](http://www.aspose.com/community/files/74/android-apis/aspose.pdf-for-android/category1430.aspx)
-+ **Documentation:** [Aspose.Pdf for Android Documentation](http://www.aspose.com/docs/display/pdfandroid/Home)
++ **Documentation:** [Aspose.Pdf for Android Documentation](https://docs.aspose.com/display/pdfandroid/Home)
 + **Forum:** [Aspose.Pdf for Android Forum](http://www.aspose.com/community/forums/aspose.pdf-product-family/75/showforum.aspx)
-+ **Blog:** [Aspose.Pdf for Android Blog](http://www.aspose.com/blogs/aspose-products/aspose-pdf-product-family.html)
++ **Blog:** [Aspose.Pdf for Android Blog](http://blog.aspose.com/aspose-products/aspose-pdf-product-family.html)
