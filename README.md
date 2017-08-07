@@ -20,7 +20,8 @@ Directory  | Description
 
 + **Website:** [www.aspose.com](http://www.aspose.com)
 + **Product Home:** [Aspose.Pdf for Android](http://www.aspose.com/android/pdf-component.aspx)
-+ **Download:** [Download Aspose.Pdf for Android](http://www.aspose.com/community/files/74/android-apis/aspose.pdf-for-android/category1430.aspx)
-+ **Documentation:** [Aspose.Pdf for Android Documentation](http://www.aspose.com/docs/display/pdfandroid/Home)
-+ **Forum:** [Aspose.Pdf for Android Forum](http://www.aspose.com/community/forums/aspose.pdf-product-family/75/showforum.aspx)
-+ **Blog:** [Aspose.Pdf for Android Blog](http://www.aspose.com/blogs/aspose-products/aspose-pdf-product-family.html)
++ **Download:** [Download Aspose.Pdf for Android](https://downloads.aspose.com/pdf/androidjava)
++ **Documentation:** [Aspose.Pdf for Android Documentation](https://docs.aspose.com/display/pdfandroid/Home)
++ **Free Support:** [Aspose.Pdf for Android Free Support Forum](https://forum.aspose.com/c/pdf)
++ **Paid Support:** [Aspose.Pdf for Android Paid Support Forum](https://helpdesk.aspose.com/)
++ **Blog:** [Aspose.Pdf for Android Blog](https://blog.aspose.com/category/aspose-products/aspose-pdf-product-family/)
