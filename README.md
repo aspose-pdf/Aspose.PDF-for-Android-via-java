@@ -22,6 +22,6 @@ Directory  | Description
 + **Product Home:** [Aspose.Pdf for Android](http://www.aspose.com/android/pdf-component.aspx)
 + **Download:** [Download Aspose.Pdf for Android](https://downloads.aspose.com/pdf/androidjava)
 + **Documentation:** [Aspose.Pdf for Android Documentation](https://docs.aspose.com/display/pdfandroid/Home)
-+ **Free Support:** [Aspose.Pdf for Android Forum](https://forum.aspose.com/c/pdf)
-+ **Paid Support:** [Aspose.Pdf for Android Forum](https://helpdesk.aspose.com/)
++ **Free Support:** [Aspose.Pdf for Android Free Support Forum](https://forum.aspose.com/c/pdf)
++ **Paid Support:** [Aspose.Pdf for Android Paid Support Forum](https://helpdesk.aspose.com/)
 + **Blog:** [Aspose.Pdf for Android Blog](https://blog.aspose.com/category/aspose-products/aspose-pdf-product-family/)
