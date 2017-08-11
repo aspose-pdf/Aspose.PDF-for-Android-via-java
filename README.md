@@ -1,6 +1,6 @@
 ## Aspose.Pdf for Android via Java
 
-This package contains Java Example Projects for [Aspose.Pdf for Android via Java](https://www.aspose.com/products/pdf/cloud).
+This package contains Java Example Projects for [Aspose.Pdf for Android via Java](https://www.aspose.com/products/pdf/android-java).
 
 Aspose.Pdf for Android via Java is a PDF document creation and manipulation component that enables your Android applications to read, write and manipulate PDF documents without using any other third party application. It also allows you to create forms and manage form fields embedded in a PDF document.
 
@@ -19,7 +19,7 @@ Directory  | Description
 ## Resources
 
 + **Website:** [www.aspose.com](http://www.aspose.com)
-+ **Product Home:** [Aspose.Pdf for Android via Java](https://www.aspose.com/products/pdf/cloud)
++ **Product Home:** [Aspose.Pdf for Android via Java](https://www.aspose.com/products/pdf/android-java)
 + **Download:** [Download Aspose.Pdf for Android via Java](https://downloads.aspose.com/pdf/androidjava)
 + **Documentation:** [Aspose.Pdf for Android via Java Documentation](https://docs.aspose.com/display/pdfandroid/Home)
 + **Free Support:** [Aspose.Pdf for Android via Java Free Support Forum](https://forum.aspose.com/c/pdf)
