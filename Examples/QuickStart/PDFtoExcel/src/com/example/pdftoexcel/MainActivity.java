@@ -14,8 +14,8 @@ public class MainActivity extends Activity {
 	@SuppressWarnings("static-access")
 	private static void PDFtoExcel()
 	{
-		String inputPath=Environment.getExternalStorageDirectory().getAbsolutePath()+"/Table.pdf";
-		String outputPath=Environment.getExternalStorageDirectory().getAbsolutePath()+"/Table_out.xlsx";
+		String inputPath = "/mnt/sdcard/Table.pdf";
+		String outputPath = "/mnt/sdcard/Table_out.xlsx";
 		// Method 1
 		Document doc = new Document(inputPath);
 		doc.save(outputPath, SaveFormat.Excel);

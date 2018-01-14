@@ -14,8 +14,8 @@ public class MainActivity extends Activity {
 	@SuppressWarnings("static-access")
 	private static void UseTableAbsorber()
 	{
-		String inputPath=Environment.getExternalStorageDirectory().getAbsolutePath()+"/Table.pdf";
-		String outputPath=Environment.getExternalStorageDirectory().getAbsolutePath()+"/Table_out.pdf";
+		String inputPath = "/mnt/sdcard/Table.pdf";
+		String outputPath = "/mnt/sdcard/Table_out.pdf";
 		
 		Document pdfDocument = new Document(inputPath);
 		// Create TableAbsorber object to find tables

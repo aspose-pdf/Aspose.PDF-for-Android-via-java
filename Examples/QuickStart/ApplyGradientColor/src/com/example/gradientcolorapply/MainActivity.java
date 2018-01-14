@@ -16,18 +16,23 @@ public class MainActivity extends Activity {
 	@SuppressWarnings("static-access")
 	private static void ApplyGradientColor()
 	{
-		String outputPath=Environment.getExternalStorageDirectory().getAbsolutePath()+"/GradientColor_out.xlsx";
+		String outputPath = "/mnt/sdcard/GradientColor_out.xlsx";
+		// Initialize Document object
 		Document doc = new Document();
+		// Add a new page
         Page page = doc.getPages().add();
         Graph graph = new Graph(300, 300);
+        // Add a Graph
         page.getParagraphs().add(graph);
         com.aspose.pdf.drawing.Rectangle rect = new com.aspose.pdf.drawing.Rectangle(0, 0, 300, 300);
         graph.getShapes().add(rect);
         rect.getGraphInfo().setFillColor(new com.aspose.pdf.Color());
+        // Use GradientAxialShadding for Gradient
         GradientAxialShading gradientAxialShading = new GradientAxialShading(Color.getRed(), Color.getBlue());
         gradientAxialShading.setStart(new Point(0, 0));
         gradientAxialShading.setEnd(new Point(300, 300));
         rect.getGraphInfo().getFillColor().setPatternColorSpace(gradientAxialShading);
+        // Save the document
         doc.save(outputPath);
 	}
 	
