@@ -1,6 +1,6 @@
-## Aspose.Pdf for Android via Java Examples
+## Aspose.PDF for Android via Java Examples
 
-This directory contains Android examples for [Aspose.Pdf for Android via Java ](https://www.aspose.com/products/pdf/android-java).
+This directory contains Android examples for [Aspose.PDF for Android via Java ](https://products.aspose.com/pdf/android-java).
 
 ## How to use the Examples?
 
