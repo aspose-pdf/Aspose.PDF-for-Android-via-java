@@ -12,6 +12,8 @@ import android.widget.TextView;
 public class MainActivity extends Activity {
 	private static void HelloWorld()
 	{
+		//Set locale
+		com.aspose.pdf.LocaleOptions.setLocale(java.util.Locale.US);
 		String outputPath=Environment.getExternalStorageDirectory().getAbsolutePath();
 		com.aspose.pdf.Document pdfDocument1 = new com.aspose.pdf.Document();
         // add a page to PDF file
