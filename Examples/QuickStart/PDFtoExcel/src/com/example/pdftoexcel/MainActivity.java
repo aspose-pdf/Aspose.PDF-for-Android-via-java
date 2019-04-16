@@ -24,6 +24,8 @@ public class MainActivity extends Activity {
 		ExcelSaveOptions options = new ExcelSaveOptions();
 		options.setInsertBlankColumnAtFirst(false);
 		options.setMinimizeTheNumberOfWorksheets(true);
+		//Save document in XLSX format
+		options.setFormat(ExcelSaveOptions.ExcelFormat.XLSX);
 
 		Document pdfDocument = new Document(inputPath);
 		pdfDocument.save(outputPath, options);
