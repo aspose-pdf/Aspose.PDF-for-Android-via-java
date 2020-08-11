@@ -3,6 +3,7 @@ title: Aspose.PDF for Android via Java
 type: docs
 weight: 40
 url: /androidjava/
+is_root: true
 ---
 
 ### **Aspose.PDF for Android via Java**
