@@ -21,7 +21,7 @@ Directory  | Description
 + **Website:** [www.aspose.com](http://www.aspose.com)
 + **Product Home:** [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java)
 + **Download:** [Download Aspose.PDF for Android via Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pdf)
-+ **Documentation:** [Aspose.PDF for Android via Java Documentation](https://docs.aspose.com/display/pdfandroidjava/Aspose.PDF+for+Android+via+Java+Home)
++ **Documentation:** [Aspose.PDF for Android via Java Documentation](https://docs.aspose.com/pdf/androidjava/)
 + **Free Support:** [Aspose.PDF for Android via Java Free Support Forum](https://forum.aspose.com/c/pdf)
 + **Paid Support:** [Aspose.PDF for Android via Java Paid Support Forum](https://helpdesk.aspose.com/)
 + **Blog:** [Aspose.PDF for Android via Java Blog](https://blog.aspose.com/category/aspose-products/aspose-pdf-product-family/)
