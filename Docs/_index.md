@@ -2,7 +2,7 @@
 title: Aspose.PDF for Android via Java
 type: docs
 weight: 40
-url: /androidjava/
+url: /pdfandroidjava/
 ---
 
 ### **Aspose.PDF for Android via Java**
@@ -17,7 +17,7 @@ Aspose.PDF for Android via Java is a component that allows developers to create 
 
 {{% /alert %}} 
 
-## **Aspose.PDF for Android via Java Resources**
+## <ins>**Aspose.PDF for Android via Java Resources**
 
 Following are the links to some useful resources you may need to accomplish your tasks.
 
