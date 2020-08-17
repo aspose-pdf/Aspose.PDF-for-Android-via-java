@@ -2,7 +2,7 @@
 title: Aspose.PDF for Android via Java
 type: docs
 weight: 40
-url: /androidjava/
+url: /pdfandroidjava/
 is_root: true
 ---
 
@@ -12,13 +12,13 @@ is_root: true
 
 ![todo:image_alt_text](aspose-pdf-for-android-via-java-home_1.png)
 
-##### **Welcome to Aspose.PDF for Android via Java**
+##### **Welcome to Aspose.PDF for Android via Java...**
 
 Aspose.PDF for Android via Java is a component that allows developers to create and manipulate PDF documents programmatically, whether simple or complex. Aspose.PDF for Android via Java allows developers to insert tables, graphs, images, hyperlinks, custom fonts - and more - into PDF documents. It can also be used to compress PDF documents. Aspose.PDF for Android via Java provides excellent security features for developing secure PDFs. Aspose.PDF for Android via Java's most distinctive feature is that it supports PDF creation through both an API and from XML templates.
 
 {{% /alert %}} 
 
-## **Aspose.PDF for Android via Java Resources**
+## <ins>**Aspose.PDF for Android via Java Resources**
 
 Following are the links to some useful resources you may need to accomplish your tasks.
 
