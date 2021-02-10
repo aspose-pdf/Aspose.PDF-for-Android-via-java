@@ -1,3 +1,4 @@
+![GitHub](https://img.shields.io/github/license/aspose-pdf/Aspose.PDF-for-Android-via-java)
 # Java API to Process & Manipulate PDF Files
 
 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java) is a PDF document creation and manipulation component that enables your Android applications to read, write and manipulate PDF documents without using any other third party application. It also allows you to create forms and manage form fields embedded in a PDF document.
